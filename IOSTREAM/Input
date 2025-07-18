@@ -1,0 +1,5 @@
+Reading and writing files is a fundamental part of programming. 
+File handling in Java involves classes such as FileReader, BufferedReader, FileWriter, and BufferedWriter.
+Remember that in Java, characters are case-sensitive by default, 
+but we can make our comparisons case-insensitive if needed.
+Real-world applications like log processors, data parsers, and text analysis tools frequently work with file input.
